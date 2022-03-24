@@ -27,6 +27,13 @@
       "weapon": "gun",
       "cartoon": true,
       "id": 5
+    },
+    {
+      "name": "john avava",
+      "occupation": "butcher",
+      "weapon": "knife",
+      "cartoon": "on",
+      "id": 7
     }
   ]
 }
