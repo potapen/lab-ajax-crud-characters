@@ -34,6 +34,48 @@
       "weapon": "knife",
       "cartoon": "on",
       "id": 7
+    },
+    {
+      "name": "pas new perso",
+      "occupation": "does stuff",
+      "weapon": "mighty tool",
+      "cartoon": true,
+      "id": 10
+    },
+    {
+      "name": "pas new perso",
+      "occupation": "does stuff",
+      "weapon": "mighty tool",
+      "cartoon": true,
+      "id": 11
+    },
+    {
+      "name": "john",
+      "occupation": "butcher",
+      "weapon": "knife",
+      "cartoon": "on",
+      "id": 12
+    },
+    {
+      "name": "john",
+      "occupation": "butcher",
+      "weapon": "knife",
+      "cartoon": "on",
+      "id": 13
+    },
+    {
+      "name": "moi",
+      "occupation": "moi",
+      "weapon": "moi",
+      "cartoon": "on",
+      "id": 14
+    },
+    {
+      "name": "john",
+      "occupation": "butcher",
+      "weapon": "knife",
+      "cartoon": "on",
+      "id": 15
     }
   ]
 }
